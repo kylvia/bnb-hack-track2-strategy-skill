@@ -6,6 +6,10 @@ Do not submit externally until the owner approves the final submission.
 
 No-Signature Liquidity-Gated Momentum Skill
 
+## Track
+
+Crypto Intelligence Agent Track
+
 ## One-Liner
 
 A CoinMarketCap-compatible strategy skill that turns market data into a

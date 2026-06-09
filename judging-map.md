@@ -2,7 +2,7 @@
 
 ## Track Fit
 
-This project targets BNB HACK Track 2: Strategy Skills. It produces a
+This project targets the BNB HACK Crypto Intelligence Agent Track. It produces a
 backtestable strategy from market data and does not require an execution layer.
 
 ## Sponsor Stack Usage
@@ -27,9 +27,8 @@ backtestable strategy from market data and does not require an execution layer.
   changing the strategy interface.
 - **Clarity:** submission-form copy and demo transcript explain how to judge it.
 
-## Why Not Track 1
+## Why Not Onchain Trading Agent Track
 
-Track 1 requires live execution and wallet-based performance evaluation. This
-company is currently operating under no-signature, no-live-trading guardrails, so
-Track 1 is intentionally out of scope.
-
+The Onchain Trading Agent Track requires live execution and wallet-based
+performance evaluation. This company is currently operating under no-signature,
+no-live-trading guardrails, so that track is intentionally out of scope.

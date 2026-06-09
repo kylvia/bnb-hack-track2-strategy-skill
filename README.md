@@ -1,4 +1,4 @@
-# BNB HACK Track 2 Strategy Skill Prototype
+# BNB HACK Crypto Intelligence Agent Prototype
 
 ![No-Signature Liquidity-Gated Momentum Skill](assets/buidl-logo.png)
 
@@ -11,8 +11,9 @@ DoraHacks BUIDL: https://dorahacks.io/buidl/44535
 
 ## Why This Bet
 
-Track 2 rewards strategy-skill style outputs that can be evaluated without live
-execution. That matches the company guardrails better than live trading tracks.
+The Crypto Intelligence Agent Track rewards market-intelligence and
+strategy-quality outputs that can be evaluated without live execution. That
+matches the company guardrails better than the onchain trading track.
 
 ## Files
 

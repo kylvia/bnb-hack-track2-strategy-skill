@@ -7,8 +7,8 @@ No-Signature Liquidity-Gated Momentum Skill
 ## Problem
 
 Most trading-agent demos jump straight to wallet execution. That is risky for
-new users and difficult to evaluate safely. Track 2 can instead reward strategy
-quality: the ability to express a clear, testable strategy with data
+new users and difficult to evaluate safely. The Crypto Intelligence Agent Track
+can instead reward strategy quality: the ability to express a clear, testable strategy with data
 requirements, risk gates, and stop conditions.
 
 ## Solution

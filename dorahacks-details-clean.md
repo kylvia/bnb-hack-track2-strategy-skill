@@ -1,6 +1,6 @@
 # No-Signature Liquidity-Gated Momentum Skill
 
-This BUIDL is a no-signature strategy skill for BNB HACK Track 2. It turns CoinMarketCap-compatible market data into a deterministic, backtestable trading specification before any wallet execution path exists.
+This BUIDL is a no-signature crypto intelligence agent for the BNB HACK Crypto Intelligence Agent Track. It turns CoinMarketCap-compatible market data into a deterministic, backtestable trading specification before any wallet execution path exists.
 
 Most trading agents jump from signals to actions too quickly. That creates unnecessary risk around wallet signing, token approvals, swaps, bridges, perps, custody, and live fund exposure. This project keeps the agent in a safer research layer: it can read market data, rank opportunities, produce a strategy spec, and generate reports, but it cannot move funds.
 
