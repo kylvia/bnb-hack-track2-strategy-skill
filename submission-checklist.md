@@ -20,7 +20,7 @@ Do not submit externally until the owner explicitly approves.
 - [x] If key is provided, regenerate report from live/sponsor data.
 - [x] Final review for no profit guarantees and no financial advice.
 - [x] Final review for no private wallet/account/address leakage.
-- [ ] Submit through the official BNB HACK flow manually or with explicit
+- [x] Submit through the official BNB HACK flow manually or with explicit
       owner-approved browser action.
 - [x] If DoraHacks requires a public repository URL, approve or create a GitHub
       repo from this directory.
