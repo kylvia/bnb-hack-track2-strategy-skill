@@ -22,7 +22,7 @@ Do not submit externally until the owner explicitly approves.
 - [x] Final review for no private wallet/account/address leakage.
 - [ ] Submit through the official BNB HACK flow manually or with explicit
       owner-approved browser action.
-- [ ] If DoraHacks requires a public repository URL, approve or create a GitHub
+- [x] If DoraHacks requires a public repository URL, approve or create a GitHub
       repo from this directory.
 
 ## Hard Stops
