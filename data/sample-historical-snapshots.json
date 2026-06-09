@@ -1,0 +1,75 @@
+{
+  "constraints": {
+    "maxPositions": 2,
+    "riskBudgetPct": 1.5,
+    "minVolume24hUsd": 1000000,
+    "maxDrawdownPct": 6,
+    "minSignalScore": 0
+  },
+  "snapshots": [
+    {
+      "timestamp": "2026-05-30T00:00:00Z",
+      "market": [
+        { "symbol": "BNB", "priceUsd": 584.2, "volume24hUsd": 1180000000, "change1hPct": 0.1, "change24hPct": 0.9, "change7dPct": 3.7, "marketCapUsd": 89900000000 },
+        { "symbol": "CAKE", "priceUsd": 2.03, "volume24hUsd": 61000000, "change1hPct": 0.3, "change24hPct": 2.5, "change7dPct": 6.2, "marketCapUsd": 608000000 },
+        { "symbol": "LOWVOL", "priceUsd": 0.061, "volume24hUsd": 33000, "change1hPct": 9.1, "change24hPct": 20.2, "change7dPct": 33.4, "marketCapUsd": 9100000 }
+      ]
+    },
+    {
+      "timestamp": "2026-05-31T00:00:00Z",
+      "market": [
+        { "symbol": "BNB", "priceUsd": 590.6, "volume24hUsd": 1250000000, "change1hPct": 0.2, "change24hPct": 1.1, "change7dPct": 4.4, "marketCapUsd": 90700000000 },
+        { "symbol": "CAKE", "priceUsd": 2.09, "volume24hUsd": 67000000, "change1hPct": -0.1, "change24hPct": 3.0, "change7dPct": 7.0, "marketCapUsd": 627000000 },
+        { "symbol": "LOWVOL", "priceUsd": 0.066, "volume24hUsd": 28000, "change1hPct": 4.8, "change24hPct": 8.2, "change7dPct": 29.1, "marketCapUsd": 9800000 }
+      ]
+    },
+    {
+      "timestamp": "2026-06-01T00:00:00Z",
+      "market": [
+        { "symbol": "BNB", "priceUsd": 598.1, "volume24hUsd": 1320000000, "change1hPct": 0.5, "change24hPct": 1.3, "change7dPct": 5.1, "marketCapUsd": 91800000000 },
+        { "symbol": "CAKE", "priceUsd": 2.15, "volume24hUsd": 74000000, "change1hPct": 0.2, "change24hPct": 2.9, "change7dPct": 8.1, "marketCapUsd": 645000000 },
+        { "symbol": "LOWVOL", "priceUsd": 0.071, "volume24hUsd": 39000, "change1hPct": 6.9, "change24hPct": 7.6, "change7dPct": 28.5, "marketCapUsd": 10600000 }
+      ]
+    },
+    {
+      "timestamp": "2026-06-02T00:00:00Z",
+      "market": [
+        { "symbol": "BNB", "priceUsd": 595.3, "volume24hUsd": 1280000000, "change1hPct": -0.2, "change24hPct": -0.5, "change7dPct": 4.8, "marketCapUsd": 91400000000 },
+        { "symbol": "CAKE", "priceUsd": 2.21, "volume24hUsd": 79000000, "change1hPct": 0.4, "change24hPct": 2.8, "change7dPct": 9.0, "marketCapUsd": 663000000 },
+        { "symbol": "LOWVOL", "priceUsd": 0.078, "volume24hUsd": 45000, "change1hPct": 10.2, "change24hPct": 9.9, "change7dPct": 30.0, "marketCapUsd": 11600000 }
+      ]
+    },
+    {
+      "timestamp": "2026-06-03T00:00:00Z",
+      "market": [
+        { "symbol": "BNB", "priceUsd": 589.8, "volume24hUsd": 1390000000, "change1hPct": -0.7, "change24hPct": -0.9, "change7dPct": 3.4, "marketCapUsd": 90600000000 },
+        { "symbol": "CAKE", "priceUsd": 2.12, "volume24hUsd": 84000000, "change1hPct": -0.5, "change24hPct": -1.4, "change7dPct": 6.1, "marketCapUsd": 636000000 },
+        { "symbol": "LOWVOL", "priceUsd": 0.073, "volume24hUsd": 36000, "change1hPct": -8.5, "change24hPct": -6.4, "change7dPct": 18.1, "marketCapUsd": 10900000 }
+      ]
+    },
+    {
+      "timestamp": "2026-06-04T00:00:00Z",
+      "market": [
+        { "symbol": "BNB", "priceUsd": 602.7, "volume24hUsd": 1430000000, "change1hPct": 0.3, "change24hPct": 2.2, "change7dPct": 6.0, "marketCapUsd": 92600000000 },
+        { "symbol": "CAKE", "priceUsd": 2.24, "volume24hUsd": 87000000, "change1hPct": 0.5, "change24hPct": 5.7, "change7dPct": 9.8, "marketCapUsd": 672000000 },
+        { "symbol": "LOWVOL", "priceUsd": 0.07, "volume24hUsd": 31000, "change1hPct": -1.2, "change24hPct": -4.1, "change7dPct": 14.5, "marketCapUsd": 10400000 }
+      ]
+    },
+    {
+      "timestamp": "2026-06-05T00:00:00Z",
+      "market": [
+        { "symbol": "BNB", "priceUsd": 612.4, "volume24hUsd": 1420000000, "change1hPct": 0.4, "change24hPct": 2.8, "change7dPct": 8.1, "marketCapUsd": 94100000000 },
+        { "symbol": "CAKE", "priceUsd": 2.34, "volume24hUsd": 88000000, "change1hPct": -0.2, "change24hPct": 3.7, "change7dPct": 11.9, "marketCapUsd": 700000000 },
+        { "symbol": "LOWVOL", "priceUsd": 0.08, "volume24hUsd": 42000, "change1hPct": 12.2, "change24hPct": 31.0, "change7dPct": 45.0, "marketCapUsd": 12000000 }
+      ]
+    },
+    {
+      "timestamp": "2026-06-06T00:00:00Z",
+      "market": [
+        { "symbol": "BNB", "priceUsd": 617.9, "volume24hUsd": 1470000000, "change1hPct": 0.2, "change24hPct": 0.9, "change7dPct": 8.6, "marketCapUsd": 94900000000 },
+        { "symbol": "CAKE", "priceUsd": 2.39, "volume24hUsd": 91000000, "change1hPct": 0.3, "change24hPct": 2.1, "change7dPct": 12.8, "marketCapUsd": 715000000 },
+        { "symbol": "LOWVOL", "priceUsd": 0.077, "volume24hUsd": 37000, "change1hPct": -2.8, "change24hPct": -3.8, "change7dPct": 26.2, "marketCapUsd": 11500000 }
+      ]
+    }
+  ]
+}

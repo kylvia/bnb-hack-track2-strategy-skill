@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "NoSignatureStrategySkill",
+  "type": "object",
+  "required": ["market", "constraints"],
+  "properties": {
+    "market": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["symbol", "priceUsd", "volume24hUsd", "change1hPct", "change24hPct", "change7dPct", "marketCapUsd"],
+        "properties": {
+          "symbol": { "type": "string" },
+          "priceUsd": { "type": "number" },
+          "volume24hUsd": { "type": "number" },
+          "change1hPct": { "type": "number" },
+          "change24hPct": { "type": "number" },
+          "change7dPct": { "type": "number" },
+          "marketCapUsd": { "type": "number" }
+        }
+      }
+    },
+    "constraints": {
+      "type": "object",
+      "required": ["maxPositions", "riskBudgetPct", "minVolume24hUsd", "maxDrawdownPct"],
+      "properties": {
+        "maxPositions": { "type": "integer", "minimum": 1 },
+        "riskBudgetPct": { "type": "number", "minimum": 0, "maximum": 100 },
+        "minVolume24hUsd": { "type": "number", "minimum": 0 },
+        "maxDrawdownPct": { "type": "number", "minimum": 0, "maximum": 100 },
+        "minSignalScore": { "type": "number" }
+      }
+    }
+  }
+}

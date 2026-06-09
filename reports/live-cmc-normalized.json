@@ -1,0 +1,29 @@
+{
+  "market": [
+    {
+      "symbol": "BNB",
+      "priceUsd": 602.9494660990607,
+      "volume24hUsd": 1249631265.901882,
+      "change1hPct": 0.44313685,
+      "change24hPct": 2.02376326,
+      "change7dPct": -11.01152875,
+      "marketCapUsd": 81267988664.64745
+    },
+    {
+      "symbol": "CAKE",
+      "priceUsd": 1.320670496327926,
+      "volume24hUsd": 45095726.99874583,
+      "change1hPct": 0.42421054,
+      "change24hPct": 5.4006009,
+      "change7dPct": -6.33301804,
+      "marketCapUsd": 428552666.6297319
+    }
+  ],
+  "constraints": {
+    "maxPositions": 2,
+    "riskBudgetPct": 1.5,
+    "minVolume24hUsd": 1000000,
+    "maxDrawdownPct": 6,
+    "minSignalScore": 0
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "status": {
+    "timestamp": "2026-06-07T00:00:00.000Z",
+    "error_code": 0,
+    "error_message": null,
+    "elapsed": 18,
+    "credit_count": 1
+  },
+  "data": {
+    "BNB": {
+      "id": 1839,
+      "name": "BNB",
+      "symbol": "BNB",
+      "quote": {
+        "USD": {
+          "price": 612.4,
+          "volume_24h": 1420000000,
+          "percent_change_1h": 0.4,
+          "percent_change_24h": 2.8,
+          "percent_change_7d": 8.1,
+          "market_cap": 94100000000
+        }
+      }
+    },
+    "CAKE": {
+      "id": 7186,
+      "name": "PancakeSwap",
+      "symbol": "CAKE",
+      "quote": {
+        "USD": {
+          "price": 2.34,
+          "volume_24h": 88000000,
+          "percent_change_1h": -0.2,
+          "percent_change_24h": 3.7,
+          "percent_change_7d": 11.9,
+          "market_cap": 700000000
+        }
+      }
+    },
+    "LOWVOL": {
+      "id": 999999,
+      "name": "Low Volume Example",
+      "symbol": "LOWVOL",
+      "quote": {
+        "USD": {
+          "price": 0.08,
+          "volume_24h": 42000,
+          "percent_change_1h": 12.2,
+          "percent_change_24h": 31,
+          "percent_change_7d": 45,
+          "market_cap": 12000000
+        }
+      }
+    }
+  }
+}
+
